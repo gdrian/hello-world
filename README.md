@@ -1,2 +1,3 @@
 # hello-world
-Learning what repositories are all about
+This is @gdrian from Romania trying to learn towards a career path change.<br>
+I like music and, apparently, programming.
